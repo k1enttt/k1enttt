@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ta Thuc Trung Kien</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [FLS News](https://github.com/k1enttt/flsnews-nextjs)
+- 🌱 I’m currently learning **NextJS and PWA**
 
-- 🌱 I’m currently learning **NextJS, TailwindCSS, GhostCMS**
-
-- 💬 Ask me about **NextJS, or any web-related stuffs**
+- 💬 Ask me about **any programming-related stuffs**
 
 - 📫 How to reach me **kientathuc@gmail.com**
 
